@@ -9,3 +9,13 @@ C:\Users\Kyle\Desktop\MCLawlSource\MCLawl\obj\x86\Debug\ResGen.read.1.tlog
 C:\Users\Kyle\Desktop\MCLawlSource\MCLawl\obj\x86\Debug\ResGen.write.1.tlog
 C:\Users\Kyle\Desktop\MCLawlSource\MCLawl\obj\x86\Debug\MCLawl_.dll
 C:\Users\Kyle\Desktop\MCLawlSource\MCLawl\obj\x86\Debug\MCLawl_.pdb
+C:\Users\Andrew Schimelpfenin\Documents\GitHub\FROSTEDBUTTS\MCLawl_.dll.config
+C:\Users\Andrew Schimelpfenin\Documents\GitHub\FROSTEDBUTTS\MCLawl_.dll
+C:\Users\Andrew Schimelpfenin\Documents\GitHub\FROSTEDBUTTS\MCLawl_.pdb
+C:\Users\Andrew Schimelpfenin\Documents\GitHub\MCLawl\MCLawl\obj\x86\Debug\MCLawl_.csprojResolveAssemblyReference.cache
+C:\Users\Andrew Schimelpfenin\Documents\GitHub\MCLawl\MCLawl\obj\x86\Debug\MCLawl.Gui.PropertyWindow.resources
+C:\Users\Andrew Schimelpfenin\Documents\GitHub\MCLawl\MCLawl\obj\x86\Debug\MCLawl.Gui.UpdateWindow.resources
+C:\Users\Andrew Schimelpfenin\Documents\GitHub\MCLawl\MCLawl\obj\x86\Debug\MCLawl.Gui.Window.resources
+C:\Users\Andrew Schimelpfenin\Documents\GitHub\MCLawl\MCLawl\obj\x86\Debug\MCLawl_.csproj.GenerateResource.Cache
+C:\Users\Andrew Schimelpfenin\Documents\GitHub\MCLawl\MCLawl\obj\x86\Debug\MCLawl_.dll
+C:\Users\Andrew Schimelpfenin\Documents\GitHub\MCLawl\MCLawl\obj\x86\Debug\MCLawl_.pdb

@@ -4,3 +4,9 @@ C:\Users\Kyle\Desktop\FROSTEDBUTTS\MCLawl.pdb
 C:\Users\Kyle\Desktop\MCLawlSource\MCLawl\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Kyle\Desktop\MCLawlSource\MCLawl\obj\x86\Debug\MCLawl.exe
 C:\Users\Kyle\Desktop\MCLawlSource\MCLawl\obj\x86\Debug\MCLawl.pdb
+C:\Users\Andrew Schimelpfenin\Documents\GitHub\FROSTEDBUTTS\MCLawl.exe.config
+C:\Users\Andrew Schimelpfenin\Documents\GitHub\FROSTEDBUTTS\MCLawl.exe
+C:\Users\Andrew Schimelpfenin\Documents\GitHub\FROSTEDBUTTS\MCLawl.pdb
+C:\Users\Andrew Schimelpfenin\Documents\GitHub\MCLawl\MCLawl\obj\x86\Debug\Starter.csprojResolveAssemblyReference.cache
+C:\Users\Andrew Schimelpfenin\Documents\GitHub\MCLawl\MCLawl\obj\x86\Debug\MCLawl.exe
+C:\Users\Andrew Schimelpfenin\Documents\GitHub\MCLawl\MCLawl\obj\x86\Debug\MCLawl.pdb
